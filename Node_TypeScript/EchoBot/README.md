@@ -11,6 +11,6 @@ From a command prompt or terminal, navigate to the folder you just created;
 
 ## Run the following yarn command:
 ```
-* yarn install;
-* yarn start;
+yarn install
+yarn start
 ```
